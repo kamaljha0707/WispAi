@@ -3,7 +3,6 @@ import gradient from '../assets/asset38.jpg'
 import cornell from '../assets/asset3.png'
 import aveva from '../assets/asset4.png'
 import qualcomm from '../assets/asset5.png'
-import { MdEmail } from 'react-icons/md';
 import Btn from './Btn'
 function Testimonial() {
     return (
@@ -36,8 +35,8 @@ function Testimonial() {
                         <p className="text-gray-400 text-lg mb-8">
                             Experience email automation that adapts to your style and needs
                         </p>
-                      {/* CTA Button */}
-                      <Btn/>
+                        {/* CTA Button */}
+                        <Btn/>
                     </div>
 
                     {/* Steps */}
@@ -45,7 +44,7 @@ function Testimonial() {
                         <div className='border-b-2 sm:border-b-0 sm:border-r-2 px-6 py-12 sm:py-0 border-[#333333] w-full sm:w-1/3 capitalize flex flex-col justify-center items-center relative'>
                             <span className='absolute top-0 right-6 py-1 px-2.5 font-medium rounded-full  bg-[#d2c8de] text-[#7E22CE]'>1 min</span>
                             <div className="h-36 w-36 bg-[#333333] rounded-3xl mb-10 flex flex-col items-center justify-center text-center captialize text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-indigo-400">
-                               <div className='h-36 w-42 rounded-3xl bg-zinc-800'> </div>
+                                <div className='h-36 w-42 rounded-3xl bg-zinc-800'> </div>
                             </div>
                             <h1 className='text-white text-2xl sm:text-3xl leading-normal font-medium tracking-wide'>
                                 Link Gmail <br />
@@ -77,7 +76,7 @@ function Testimonial() {
 
                             <div className="h-36 w-36  mb-10 flex flex-col items-center justify-center text-center capitalize">
 
-                               
+
                                 <svg className="w-20 h-20 rotate-6" viewBox="0 0 24 24" fill="url(#grad1)">
                                     <defs>
                                         <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">

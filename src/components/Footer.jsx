@@ -18,7 +18,7 @@ const Footer = () => {
             <p className="text-gray-300 mb-2 text-2xl">WispAI</p>
             <p className="text-gray-400 text-sm mb-4">Transformed your email workflow.</p>
             <button className="bg-white text-[#0C0B0C] rounded-xl px-6 py-2 font-semibold cursor-pointer hover:text-gray-200 hover:border-1 overflow-hidden hover:border-gray-200 transition">
-              Join Waitlist
+              Join Now
             </button>
           </div>
         </div>
