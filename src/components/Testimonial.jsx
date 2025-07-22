@@ -40,7 +40,7 @@ function Testimonial() {
                     </div>
 
                     {/* Steps */}
-                    <div className="w-full   flex flex-col sm:flex-row items-center justify-center mt-10 sm:mt-36 text-center min-h-[75vh]">
+                    <div className="w-full   flex flex-col sm:flex-row items-center justify-center mt-10 sm:mt-36 text-center min-h-[65vh]">
                         <div className='border-b-2 sm:border-b-0 sm:border-r-2 px-6 py-12 sm:py-0 border-[#333333] w-full sm:w-1/3 capitalize flex flex-col justify-center items-center relative'>
                             <span className='absolute top-0 right-6 py-1 px-2.5 font-medium rounded-full  bg-[#d2c8de] text-[#7E22CE]'>1 min</span>
                             <div className="h-36 w-36 bg-[#333333] rounded-3xl mb-10 flex flex-col items-center justify-center text-center captialize text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-indigo-400">
